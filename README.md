@@ -1,5 +1,8 @@
 # Using protobuf with mqtt in angular2
 This project is a demonstration of using protobuf with angular2 and mqtt.
+
+The article for this example is located [here](http://blog.sebastian-clausen.de/2017-02-20-reduce-message-payload-in-an-iot-setup/)
+
 ## Prequisites
 You need a running mqtt server with websocket support under port 9001.
 I can recommend [mosquitto](https://mosquitto.org/).
